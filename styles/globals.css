@@ -13,4 +13,9 @@ a {
 
 * {
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+p, h1{
+  margin: inherit;
 }
